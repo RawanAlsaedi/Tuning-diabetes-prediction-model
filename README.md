@@ -48,6 +48,6 @@ To better understand how k affects model performance, the **(validation curve of
 
 After testing various k values for the K-Nearest Neighbors (KNN) classifier, the following results were obtained:
 
-- The **best value** of k was found to be 12, which resulted in an accuracy of 0.7491.
+- The **best value** of k was found to be 12, with an accuracy of 0.7491.
 
 - The **validation curve** showed that accuracy improved as k increased from 1 to 12. However, after k = 12, the accuracy plateaued, suggesting no further improvement with larger values of k.

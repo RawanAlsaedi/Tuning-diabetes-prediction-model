@@ -37,10 +37,10 @@ ACC_dev
 
 ## Visualizing the Results:
 
-To better understand how k affects model performance, the validation curve of  **(accuracy vs. k)** is plotted
+To better understand how k affects model performance, the **(validation curve of accuracy vs. k)** is plotted
 
 
-![validation curve of accuracy vs. k](https://github.com/RawanAlsaedi/INE-Data-Science-Bootcamp/blob/main/Tuning%20diabetes%20prediction%20model/img/validation%20curve%20of%20accuracy%20vs.%20k.png)
+![validation curve of accuracy vs. k](https://github.com/RawanAlsaedi/Tuning-diabetes-prediction-model/blob/main/img/validation%20curve%20of%20accuracy%20vs.%20k.png)
 
 
 
